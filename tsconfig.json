@@ -13,6 +13,9 @@
     "allowSyntheticDefaultImports": true,
     "removeComments": true,
     "pretty": true,
-    "outDir": "dist"
-  }
+    "outDir": "dist",
+    "resolveJsonModule": true,
+    "esModuleInterop": true
+  },
+  "include": ["./src/**/*", "./src/**/*.json"]
 }

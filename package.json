@@ -13,5 +13,8 @@
   "devDependencies": {
     "ts-node": "10.2.1",
     "typescript": "4.4.2"
+  },
+  "dependencies": {
+    "ethers": "5.4.6"
   }
 }
